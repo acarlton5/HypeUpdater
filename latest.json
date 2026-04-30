@@ -1,6 +1,6 @@
 {
-    "version":  "0.7.9",
-    "fingerprint":  "HYPE-20260430-SETTINGS-UPDATER",
+    "version":  "0.7.10",
+    "fingerprint":  "HYPE-20260430-UPDATER-CACHE-FIX",
     "updatedAt":  "2026-04-30",
     "installer":  "https://raw.githubusercontent.com/acarlton5/HYPESHELL/main/HYPESHELL-Installer/install.sh",
     "repository":  "https://github.com/acarlton5/HYPESHELL"
